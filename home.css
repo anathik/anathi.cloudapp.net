@@ -49,5 +49,8 @@ footer {
   color: white;
   background-color: black;
   clear: both;
-  position: relative;
+  bottom: 0;
+  position: absolute;
+  height: 15%;
+  left: 0;
 }
