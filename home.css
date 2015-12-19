@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-image: url("http://i.ytimg.com/vi/I32GJX-lK0U/maxresdefault.jpg");
+  background-image: url("http://datacouch.net/wp-content/uploads/2015/10/brown-dark-wood-floors-background-wood-floor-texture-design-dark-wood-floors-background.jpg");
   background-color: white;
 
 }
@@ -26,7 +26,8 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white;
+  color: none;
+  background-image: url("")
 }
 
 
@@ -37,10 +38,10 @@ nav ul li a {
 .col {
   float: left;
   background: #C0C0C0;
-  padding: 10px 3.67%;
-  border-radius: 5px;
+  padding: 10px .5%;
+  border-radius: 3px;
   margin: .5%;
-  width: 26%;
+  width: 20%;
   height: 62px;
   color: white;
 }
@@ -52,6 +53,7 @@ footer {
   clear: both;
   bottom: 0;
   position: absolute;
-  height: 15%;
+  padding-bottom: 0;
+  height: 10%;
   left: 0;
 }
