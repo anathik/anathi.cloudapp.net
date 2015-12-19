@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-image: url("http://eskipaper.com/images/lovely-city-wallpaper-1.jpg");
-  background-color: grey;
+  background-image: url("http://i.ytimg.com/vi/I32GJX-lK0U/maxresdefault.jpg");
+  background-color: white;
 
 }
 
@@ -36,11 +36,12 @@ nav ul li a {
 
 .col {
   float: left;
-  background: #333;
-  padding: 10px .5%;
+  background: #C0C0C0;
+  padding: 10px 1.5%;
   border-radius: 5px;
   margin: .5%;
   width: 31%;
+  height: 62px;
   color: white;
 }
 
