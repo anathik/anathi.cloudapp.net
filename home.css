@@ -21,7 +21,9 @@ nav ul li {
   display: inline-block;
   list-style-type: none;
   display: inline-block;
-  background: grey;
+  background-color: #B8B8B8;
+  border-bottom: 3px;
+  border-color: #181818;
   padding: 5px 15px;
 }
 
