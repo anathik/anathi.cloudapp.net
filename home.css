@@ -24,6 +24,7 @@ header {
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
+  margin-right: 8px;
 }
 
 #about {
@@ -37,6 +38,7 @@ header {
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
+  margin-right: 8px;
 }
 
 #news {
@@ -50,10 +52,11 @@ header {
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
+  margin-right: 8px;
 }
 
 .nav_buttons {
-  
+
 }
 
 footer {
