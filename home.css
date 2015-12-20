@@ -13,7 +13,7 @@ header {
   padding: 10px 10px 0px 10px;
 }
 
-#home {                      /* This is for the home button in the navbar*/
+.home {                      /* This is for the home button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
@@ -27,7 +27,7 @@ header {
   margin-right: 8px;
 }
 
-#about {                    /* This is for the about button in the navbar*/
+.about {                    /* This is for the about button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
@@ -41,7 +41,7 @@ header {
   margin-right: 8px;
 }
 
-#news {                       /* This is for the news button in the navbar*/
+.news {                       /* This is for the news button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
