@@ -7,13 +7,13 @@ body {
 
 header {
   margin: 0;
-  background-image: url("http://wallpapercave.com/wp/gQuE1d8.jpg");
+  background-image: url("http://www.shakticreation.in/wp-content/uploads/2015/03/silver-background-19-nice-wallpaper-background-and-wallpaper.jpg");
   border-bottom: 6px;
   border-color: #181818;
   padding: 10px 10px 0 10px;
 }
 
-#home {
+#home {                      /* This is for the home button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
@@ -27,7 +27,7 @@ header {
   margin-right: 8px;
 }
 
-#about {
+#about {                    /* This is for the about button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
@@ -41,7 +41,7 @@ header {
   margin-right: 8px;
 }
 
-#news {
+#news {                       /* This is for the news button in the navbar*/
   list-style-type: none;
   text-decoration: none;
   padding: 5px 15px;
@@ -53,6 +53,24 @@ header {
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
   margin-right: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 50px;
+  padding-top: 45px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  position: inherit;
+  margin: 9px 14% 0 14%;
+  font-family: sans-serif;
+  font-size: 34px;
+  color: white;
 }
 
 .nav_buttons {
