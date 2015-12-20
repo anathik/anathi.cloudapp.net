@@ -53,15 +53,7 @@ header {
 }
 
 .nav_buttons {
-  display: inline-block;
-  text-decoration: none;
-  align-items: center;
   
-}
-
-
-.row {
-  clear: both;
 }
 
 footer {
