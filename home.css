@@ -10,7 +10,7 @@ header {
   background-image: url("http://www.shakticreation.in/wp-content/uploads/2015/03/silver-background-19-nice-wallpaper-background-and-wallpaper.jpg");
   border-bottom: 6px;
   border-color: #181818;
-  padding: 10px 10px 0 10px;
+  padding: 10px 10px 1px 10px;
 }
 
 #home {                      /* This is for the home button in the navbar*/
@@ -59,17 +59,18 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   font-family: sans-serif;
-  font-size: 50px;
+  font-size: 75px;
   padding-top: 45px;
   color: white;
 }
 
-p {
+pre {
   text-align: center;
   position: inherit;
+  text-transform: uppercase;
   margin: 9px 14% 0 14%;
   font-family: sans-serif;
-  font-size: 34px;
+  font-size: 28px;
   color: white;
 }
 
