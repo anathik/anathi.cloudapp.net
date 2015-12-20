@@ -10,7 +10,7 @@ header {
   background-image: url("http://www.shakticreation.in/wp-content/uploads/2015/03/silver-background-19-nice-wallpaper-background-and-wallpaper.jpg");
   border-bottom: 6px;
   border-color: #181818;
-  padding: 10px 10px 1px 10px;
+  padding: 10px 10px 0px 10px;
 }
 
 #home {                      /* This is for the home button in the navbar*/
@@ -19,7 +19,7 @@ header {
   padding: 5px 15px;
   font: bold 11px Arial;
   background-color: #EEEEEE;
-  padding: 8px 20px 8px 20px;
+  padding: 10px 18px 0px 18px;
   border-top: 1px solid #CCCCCC;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
@@ -33,7 +33,7 @@ header {
   padding: 5px 15px;
   font: bold 11px Arial;
   background-color: #EEEEEE;
-  padding: 8px 20px 8px 20px;
+  padding: 10px 18px 0px 18px;
   border-top: 1px solid #CCCCCC;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
@@ -47,7 +47,7 @@ header {
   padding: 5px 15px;
   font: bold 11px Arial;
   background-color: #EEEEEE;
-  padding: 8px 20px 8px 20px;
+  padding: 10px 18px 0px 18px;
   border-top: 1px solid #CCCCCC;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
