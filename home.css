@@ -7,10 +7,10 @@ body {
 
 header {
   margin: 0;
-  background-color: #B8B8B8;
-  border-bottom: 3px;
+  background-image: url("http://wallpapercave.com/wp/gQuE1d8.jpg");
+  border-bottom: 6px;
   border-color: #181818;
-  padding: 15px 15px 0 15px;
+  padding: 10px 10px 0 10px;
 }
 
 #home {
@@ -62,7 +62,7 @@ header {
 footer {
   margin: 0;
   color: white;
-  background-color: black;
+  background-image: url("http://www.anawalls.com/images/textures/background-black-white-wooden-surface-board.jpg");
   clear: both;
   bottom: 0;
   position: absolute;
