@@ -67,6 +67,8 @@ footer {
   bottom: 0;
   position: absolute;
   padding-bottom: 0;
-  height: 10%;
+  height: 8%;
   left: 0;
+  border-top: 3px black;
+  width: 100%;
 }
