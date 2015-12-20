@@ -13,10 +13,9 @@ header {
   padding: 15px 15px 0 15px;
 }
 
-.nav_buttons {
-  display: inline-block;
+#home {
   list-style-type: none;
-  display: inline-block;
+  text-decoration: none;
   padding: 5px 15px;
   font: bold 11px Arial;
   background-color: #EEEEEE;
@@ -27,8 +26,37 @@ header {
   border-left: 1px solid #CCCCCC;
 }
 
-nav {
+#about {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 5px 15px;
+  font: bold 11px Arial;
+  background-color: #EEEEEE;
+  padding: 8px 20px 8px 20px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
 
+#news {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 5px 15px;
+  font: bold 11px Arial;
+  background-color: #EEEEEE;
+  padding: 8px 20px 8px 20px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+.nav_buttons {
+  display: inline-block;
+  text-decoration: none;
+  align-items: center;
+  
 }
 
 
