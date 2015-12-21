@@ -58,9 +58,10 @@ header {
 .login_terminal {
   position: center;
   padding: 45px 70px 45px 75px;
-  margin-top: 35px;
+  margin: 55px 29% 0 29%;
   background-image: url("http://www.shakticreation.in/wp-content/uploads/2015/03/silver-background-19-nice-wallpaper-background-and-wallpaper.jpg");
-  border: 3px solid black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
 }
 
 
